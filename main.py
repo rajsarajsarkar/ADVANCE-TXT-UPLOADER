@@ -46,12 +46,12 @@ pwimg = "https://graph.org/file/8add8d382169e326f67e0-3bf38f92e52955e977.jpg"
 cpimg = "https://graph.org/file/5ed50675df0faf833efef-e102210eb72c1d5a17.jpg"  
 
 # Define the owner's user ID
-OWNER_ID = 7856557198 # Replace with the actual owner's user ID
+OWNER_ID =  6303334633 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6854709241,5840594311,7856557198]
+SUDO_USERS = [6303334633]
 
-AUTH_CHANNEL = -1002610058793
+AUTH_CHANNEL = -2526625553 
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
